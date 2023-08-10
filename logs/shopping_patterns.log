@@ -1,0 +1,28 @@
+ERROR:root:No valid JSON files found.
+Traceback (most recent call last):
+  File "C:\Users\aakas\PycharmProjects\ProRev\solution\solution_start.py", line 22, in extract_data
+    raise ValueError("No valid JSON files found.")
+ValueError: No valid JSON files found.
+ERROR:root:No valid JSON files found.
+Traceback (most recent call last):
+  File "C:\Users\aakas\PycharmProjects\ProRev\solution\solution_start.py", line 103, in run
+    shoping = transform.flatJson(extract.extract_data(file_type="json"))
+  File "C:\Users\aakas\PycharmProjects\ProRev\solution\solution_start.py", line 29, in extract_data
+    raise err
+  File "C:\Users\aakas\PycharmProjects\ProRev\solution\solution_start.py", line 22, in extract_data
+    raise ValueError("No valid JSON files found.")
+ValueError: No valid JSON files found.
+ERROR:root:No valid JSON files found.
+Traceback (most recent call last):
+  File "C:\Users\aakas\PycharmProjects\ProRev\solution\solution_start.py", line 22, in extract_data
+    raise ValueError("No valid JSON files found.")
+ValueError: No valid JSON files found.
+ERROR:root:No valid JSON files found.
+Traceback (most recent call last):
+  File "C:\Users\aakas\PycharmProjects\ProRev\solution\solution_start.py", line 103, in run
+    shoping = transform.flatJson(extract.extract_data(file_type="json"))
+  File "C:\Users\aakas\PycharmProjects\ProRev\solution\solution_start.py", line 29, in extract_data
+    raise err
+  File "C:\Users\aakas\PycharmProjects\ProRev\solution\solution_start.py", line 22, in extract_data
+    raise ValueError("No valid JSON files found.")
+ValueError: No valid JSON files found.
